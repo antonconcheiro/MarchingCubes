@@ -24,3 +24,6 @@ El código original se puede encontrar en el siguiente enlace:
 
 El tutorial y explicación del código se puede visualizar en el siguiente enlace:
 [Tutorial](https://www.youtube.com/watch?v=BZg8TCCj1gY&ab_channel=Flaroon)
+
+Las imágenes han sido obtenidas en el siguiente enlace:
+[Imágenes](https://commons.wikimedia.org/wiki/Scrollable_computed_tomography_images_of_a_normal_brain_(case_1))
