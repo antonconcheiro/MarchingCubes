@@ -20,7 +20,7 @@ Crear en la escena un GameObject vacío. Añadirle al GameObject los scripts Rea
 Ejecutar.
 
 El código original se puede encontrar en el siguiente enlace:
-[Código original](https://github.com/antonconcheiro/MarchingCubes.git)
+[Código original](https://github.com/Flaroon/Video-Files/blob/main/Marching%20Things/MarchingCubes.cs)
 
 El tutorial y explicación del código se puede visualizar en el siguiente enlace:
 [Tutorial](https://www.youtube.com/watch?v=BZg8TCCj1gY&ab_channel=Flaroon)
